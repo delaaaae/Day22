@@ -4,7 +4,7 @@ class Plant extends Component {
     render() {
         return (
             <h2>This is a Plant Component!</h2>
-        )
+        );
     }
 }
 

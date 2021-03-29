@@ -1,15 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
-import './Plant';
+import Plant from './Plant.js';
 
 function App() {
-  render() {
+  
   return (
     <div className="App">
       <Plant />
     </div>
   );
-  }
+  
 }
 
 export default App;
